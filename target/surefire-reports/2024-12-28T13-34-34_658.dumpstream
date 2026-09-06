@@ -1,0 +1,15 @@
+# Created at 2024-12-28T13:34:36.450
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2024-12-28T13:34:36.450
+WARNING: Illegal reflective access by org.apache.flink.core.memory.HybridMemorySegment (file:/home/lenovo/.m2/repository/org/apache/flink/flink-core/1.5.0/flink-core-1.5.0.jar) to field java.nio.Buffer.address
+
+# Created at 2024-12-28T13:34:36.450
+WARNING: Please consider reporting this to the maintainers of org.apache.flink.core.memory.HybridMemorySegment
+
+# Created at 2024-12-28T13:34:36.451
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2024-12-28T13:34:36.451
+WARNING: All illegal access operations will be denied in a future release
+

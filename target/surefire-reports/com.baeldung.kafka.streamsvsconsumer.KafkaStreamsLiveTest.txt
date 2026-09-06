@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.baeldung.kafka.streamsvsconsumer.KafkaStreamsLiveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 30.518 s <<< FAILURE! - in com.baeldung.kafka.streamsvsconsumer.KafkaStreamsLiveTest
+com.baeldung.kafka.streamsvsconsumer.KafkaStreamsLiveTest  Time elapsed: 30.518 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
